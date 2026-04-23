@@ -39,7 +39,7 @@ int main(void)
 	// 理论上不会运行到这里
 	while (1)
 	{
-		//ok 
+		//ok finish
 		//Scheduler_Run();
 	}
 }
